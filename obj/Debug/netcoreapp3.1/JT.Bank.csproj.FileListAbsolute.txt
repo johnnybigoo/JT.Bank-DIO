@@ -1,0 +1,12 @@
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/bin/Debug/netcoreapp3.1/JT.Bank.deps.json
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/bin/Debug/netcoreapp3.1/JT.Bank.runtimeconfig.json
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/bin/Debug/netcoreapp3.1/JT.Bank.runtimeconfig.dev.json
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/bin/Debug/netcoreapp3.1/JT.Bank.dll
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/bin/Debug/netcoreapp3.1/JT.Bank.pdb
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.csprojAssemblyReference.cache
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.AssemblyInfoInputs.cache
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.AssemblyInfo.cs
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.csproj.CoreCompileInputs.cache
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.dll
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.pdb
+/Users/Jones_Mac/Projects/C#/BankAccount/JT.Bank/obj/Debug/netcoreapp3.1/JT.Bank.genruntimeconfig.cache
